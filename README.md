@@ -40,3 +40,8 @@ Enter the width of the rectangle: 8
 The area of the selected shape is: 40.000000
 
 
+
+If there is any query feel free to ask via mail or message on given below detail-b22ch009@iitj.ac.in 
+                                                                                  or 9511135736
+
+
