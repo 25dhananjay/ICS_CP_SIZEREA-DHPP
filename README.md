@@ -12,6 +12,8 @@ Make sure you have a C compiler installed on your system.
 If not, you can download and install one or you can also use online compiller
  
 #Using the Program
+COPY THE PROGRAM AND PASTE IT ON C COMPILER INSTALLED PREVIOUSLY
+AND FOLLO THE STEPS:
 1.	Upon running, the program will display a menu of shapes.
 2.	Enter the number corresponding to the shape for which you want to calculate the area.
 3.	Follow the prompts to input the required parameters (e.g., side lengths, radius, etc.).
