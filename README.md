@@ -1,5 +1,9 @@
 # ICS_CP_SIZEREA-DHPP
-#Area Calculator
+#Team Members- 1]HIMANSHU 
+               2]PARAS
+               3]PRAGNYA NIDHI
+               4]DHANANJAY SINGH BAUDDA
+#PROJECT NAME-AREA CALCULATOR
 This is a simple C program that calculates the area of various geometric shapes based on user input. The user can choose from a menu of shapes, input the required parameters, and the program will calculate and display the corresponding area.
 #How to Use 
 Follow these step-by-step instructions to execute the code:
